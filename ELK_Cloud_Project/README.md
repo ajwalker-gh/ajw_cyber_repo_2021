@@ -144,7 +144,7 @@ In order to use the playbook, you will need to have an Ansible control node alre
 
 SSH into the control node and follow the steps below:
 
-- Copy either [filebeat-playbook.yml](./filebeat-playbook.yml) or [metric-playbook.yml](./metric-playbook.yml) file to `/etc/ansible/roles`.
+- Copy either [filebeat-playbook.yml](./filebeat-playbook.yml) or [metricbeat-playbook.yml](./metricbeat-playbook.yml) file to `/etc/ansible/roles`.
 - Update the [filebeat-config.yml](./filebeat-config.yml) and [metricbeat-config.yml](./metricbeat-config.yml) file to include target internal IP addresses.
 - Run the playbook, and navigate to Kibana to check that the installation worked as expected.
 
