@@ -149,7 +149,7 @@ SSH into the control node and follow the steps below:
 - Run the playbook, and navigate to Kibana to check that the installation worked as expected.
 
 - Playbooks found in: `/etc/ansible/roles`.
-- _Specify target machines by updating: ``filebeat-config.yml`
+- Specify target machines by updating: ``filebeat-config.yml`
 - Kibana (ELK-VM) `http://(current public IP):5601/app/kibana` - Kibana>Add Log/Metric Data>System Logs/Metrics/System Metrics Dashboard (to view logs and metrics) 
 
 ### Additional Commands:
