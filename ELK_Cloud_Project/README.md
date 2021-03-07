@@ -40,9 +40,9 @@ The configuration details of each machine may be found below.
 | -------- | -------- | ---------- | ---------------- |
 | JumpBoxProvisioner | Gateway  | 40.126.237.121   | Linux (Ubuntu 18.04)            |
 | Web1     | Web Server| 10.0.0.5| Linux (Ubuntu 18.04)                  |
-| Web2     | Web Server| 10.0.0.6| Linux (Ubuntu 18.04                 |
-| Web3     | Web Server| 10.0.0.8| Linux (Ubuntu 18.04                 |
-| ELK-VM     | ELK Server| 10.1.0.4| Linux (Ubuntu 18.04                 |
+| Web2     | Web Server| 10.0.0.6| Linux (Ubuntu 18.04)                 |
+| Web3     | Web Server| 10.0.0.8| Linux (Ubuntu 18.04)                 |
+| ELK-VM     | ELK Server| 10.1.0.4| Linux (Ubuntu 18.04)                 |
 | RedTeamLB     | Load Balancer| 52.187.233.146| n/a               |
 ### Access Policies
 
