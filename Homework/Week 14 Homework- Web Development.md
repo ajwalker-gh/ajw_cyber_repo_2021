@@ -2,7 +2,7 @@
 
 #### HTTP Requests and Responses
 
-1. What type of architecture does the HTTP request and response process occur in?
+1. What type of architecture does the HTTP request and response process occur in? <br>
 Client/Server Architecture
 
 2. What are the different parts of an HTTP request? <br>
@@ -164,11 +164,15 @@ YAML (.yml)
 
 #### Databases
 
-31. Which type of SQL query would we use to see all of the information within a table called `customers`?
+31. Which type of SQL query would we use to see all of the information within a table called `customers`? <br>
+`SELECT * FROM customers;`
 
-32. Which type of SQL query would we use to enter new data into a table? (You don't need a full query, just the first part of the statement.)
+32. Which type of SQL query would we use to enter new data into a table? (You don't need a full query, just the first part of the statement.)<br>
+`INSERT INTO`
 
-33. Why would we never run `DELETE FROM <table-name>;` by itself?
+33. Why would we never run `DELETE FROM <table-name>;` by itself? <br>
+This would delete the whole table. 
+
 
 ---
 
