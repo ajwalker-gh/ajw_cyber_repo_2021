@@ -41,8 +41,9 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
 - Run the module. 
 
 Is Altoro Mutual vulnerable to XSS: <br>
-Yes, the following vulnerability was observed: 
+Yes, the following vulnerability was observed: <br> 
 ![tesfirexssed](./Images/tesfirexssed.png)
+<br>
 ### Step 5: Zenmap
 
 Your client has asked that you help identify any vulnerabilities with their file-sharing server. Using the Metasploitable machine to act as your client's server, complete the following:
